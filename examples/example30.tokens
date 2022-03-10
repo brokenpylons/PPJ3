@@ -1,1 +1,0 @@
-variable("a") times("*") variable("aasgh") times("*") lparen("(") variable("Her") pow("^") float("1.04009") rparen(")") 

@@ -1,1 +1,0 @@
-variable("fLrtht") minus("-") lparen("(") float("1") plus("+") variable("aos") plus("+") float("46.0") rparen(")") 

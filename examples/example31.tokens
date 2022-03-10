@@ -1,1 +1,0 @@
-float("1") times("*") float("2") divide("/") variable("gai") pow("^") variable("H1") divide("/") lparen("(") float("5.0000") rparen(")") 

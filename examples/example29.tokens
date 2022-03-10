@@ -1,1 +1,0 @@
-variable("toUEh") times("*") float("2") times("*") variable("gesEh") times("*") float("5.1") pow("^") float("2") 
