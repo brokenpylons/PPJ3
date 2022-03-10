@@ -1,1 +1,1 @@
-# Razčlenjevalnik 1
+# Razpoznavalnik 1
